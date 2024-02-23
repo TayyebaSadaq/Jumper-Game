@@ -27,6 +27,13 @@
     100%{top:150px;}
 }
 
+button{
+    position:relative;
+    top:200px;
+    left:400px;
+
+}
+
 #block{
     width:20px;
     height:20px;

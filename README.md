@@ -1,2 +1,7 @@
 # Jumper-Game
-Learning Javascript - applied to create a simple clone of the offline dinosaur game
+How to run:
+
+Simply download / clone the files and run the html file in your chosen browser
+Click to make your character (the red block) jump and if you hit the turquoise "enemy" you lose.
+
+To restart, simply reload the page
